@@ -1,0 +1,2 @@
+# JobQueue (reminders) needs the job-queue extra: it pulls in APScheduler.
+python-telegram-bot[job-queue]>=22,<23
